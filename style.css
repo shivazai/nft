@@ -30,6 +30,9 @@ body{
     display: flex;
     column-gap: 32px;
 }
+body{
+    box-sizing: border-box;
+}
 .header__content-nav ul li{
     color: #BCBCBC;
     font-family: Poppins;
